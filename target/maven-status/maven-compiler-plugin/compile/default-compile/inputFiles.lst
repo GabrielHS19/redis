@@ -1,0 +1,10 @@
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/models/Person.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/repository/PersonRepository.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/controllers/UserController.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/repository/PersonRepositoryImpl.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/models/User.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/repository/UserRepositoryImpl.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/controllers/PersonController.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/repository/UserRepository.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/config/SwaggerConfig.java
+/home/gabhs/Escritorio/CENTENO/PROYECTO/spring-boot-redis/src/main/java/com/example/springbootrediscache/SpringBootRedisCacheApplication.java
